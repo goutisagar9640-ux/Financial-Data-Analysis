@@ -1,6 +1,3 @@
-Here is a **clean and professional README** you can use for your project:
-
----
 
 # Financial Data Analysis – Power BI Dashboard
 
